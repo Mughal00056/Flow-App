@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix Flow — Image Editing & Flow Animation Studio",
+  "description": "Professional image editing and real-time vector flow animation studio. Upload photos, apply precision color grading, and animate water, sky, steam, and waves with directional motion paths and freeze masks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
